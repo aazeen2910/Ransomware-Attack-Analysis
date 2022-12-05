@@ -1,0 +1,106 @@
+,Top ransomware attacks,Sector,Organisation Size,Revenue,Cost,Ransom Cost,Ransom Paid,YEAR,Month,Location,Ransomware
+2,Kaseya,tech,300,300,70,70,unknown,2021,JUL,USA,REvil
+12,Town of Freeport,government,10,127,0.01,0.01,refused,2021,JUN,USA,Avaddon
+28,Ireland HSE,healthcare,25,"23,000",20,20,refused,2021,MAY,Ireland,Conti
+32,Scripps Health,healthcare,25,"3,000",106.8,106.8,no,2021,MAY,USA,unknown
+56,Coral Glades High School,academic,1,1,40,40,refused,2021,APR,USA,Conti
+68,Oloron-Sainte-Marie,healthcare,10,106,0.05,0.05,unknown,2021,MAR,France,unknown
+107,ECMC,healthcare,10,750,0.044,0.044,refused,2018,JAN,USA,unknown
+109,Leominster PSD,academic,5,98,0.01,0.01,ransom paid,2018,MAY,USA,unknown
+110,Arran Brewery,food & beverage,1,5,0.013,0.013,refused,2018,SEP,Scotland,unknown
+111,Media Prima,media & sports,5,15,8.7,8.7,refused,2018,NOV,Malaysia,unknown
+115,Wyoming Area School District,academic,5,35,0.038,0.038,ransom paid,2019,OCT,USA,unknown
+124,Norsk Hydro,misc,10,"16,000",45,45,refused,2019,JUN,Norway,unknown
+154,Beiersdorf,retail,25,"8,000",41,41,unknown,2017,JUN,Germany,NotPetya
+155,Reckitt Benckiser,retail,25,"19,000",130,130,unknown,2017,JUN,UK,NotPetya
+156,Nuance Communications,tech,10,"1,000",90,90,unknown,2017,JUN,USA,NotPetya
+158,WPP,logistics,25,"19,000",15,15,unknown,2017,JUN,UK ,NotPetya
+159,FedEx,logistics,100,"69,000",400,400,unknown,2017,JUN,USA,NotPetya
+160,Merck,healthcare,100,"48,000",670,670,unknown,2017,JUN,USA,NotPetya
+161,Mondelez International,food & beverage,25,"26,000",150,150,unknown,2017,JUN,USA,NotPetya
+162,Saint-Gobain,misc,100,"52,000",387,387,unknown,2017,JUN,France,NotPetya
+165,JBS,food & beverage,100,"53,445",11,11,unknown,2021,JUN,"USA, Australia, Canada",REvil
+166,Colonial Pipeline,energy,10,696,4.4,4.4,unknown,2021,MAY,USA,DarkSide
+168,Dairy Farm Group,food & beverage,25,"10,269",30,30,unknown,2021,JAN,China,REvil
+171,Kia Motors,automotive,100,"51,978",20,20,unknown,2021,FEB,USA,DoppelPaymer
+179,Allergy Partners,healthcare,10,156,1.75,1.75,unknown,2021,MAR,USA,Not revealed
+180,Acer,tech,25,"9,860",50,50,unknown,2021,MAR,Taiwan,REvil
+181,FatFace,retail,10,334,2,2,ransom paid,2021,MAR,France,Conti
+182,CNA,finance,25,"10,687",40,40,ransom paid,2021,MAR,USA,Phoenix Locker
+183,Pimpri-Chinchwad ,government,5,28,9,9,unknown,2021,MAR,India,Not revealed
+184,Asteelflash,tech,10,"1,000",24,24,refused,2021,APR,France,REvil
+185,Pierre Fabre,healthcare,25,"2,670",50,50,refused,2021,APR,France,REvil
+187,Quanta Computer,tech,100,"39,369",100,100,refused,2021,APR,USA,REvil
+188,Upstox,finance,10,140,1.2,1.2,unknown,2021,APR,India,Not revealed
+189,TJR,legal,1,1,5,5,unknown,2021,APR,Brazil,REvil
+190,Brenntag,misc,25,"14,063",4.4,4.4,ransom paid,2021,MAY,Germany,DarkSide
+192,ExaGrid,tech,5,69,2.6,2.6,ransom paid,2021,MAY,USA,Conti
+193,One Call Insurance,finance,10,373,15,15,unknown,2021,MAY,UK,DarkSide
+194,ISS World,logistics,25,"11,385",75,75,unknown,2020,FEB,Denmark,Not revealed
+195,Cognizant,tech,25,"16,652",70,70,unknown,2020,APR,USA,Maze
+196,Sopra Steria,tech,25,"5,170",50,50,unknown,2020,OCT,France,Ryuk
+197,GSMS Law Firm,legal,5,14,42,42,refused,2020,MAY,USA,REvil
+198,Foxconn,tech,25,"3,785",34,34,refused,2020,DEC,Mexico,DoppelPaymer
+199,Software AG,tech,10,"1,012",20,20,refused,2020,OCT,Germany,Clop
+200,Redcar & Cleveland Council,government,1,1,10,10,unknown,2020,FEB,UK,Not revealed
+201,EDP,energy,25,"15,099",10,10,unknown,2020,APR,Portugal,Ragnar Locker
+202,Bouygues,"logistics, telecoms",100,"42,156",10,10,unknown,2020,JAN,France,Maze
+203,Advantech,tech,25,"1,847",14,14,refused,2020,NOV,Taiwan,Conti
+204,K-Electric,telecoms,25,"1,800",7.7,7.7,refused,2020,SEP,Pakistan,Netwalker
+205,Telecomm,telecoms,25,"3,164",7.5,7.5,unknown,2020,JUL,Argentina,REvil
+206,DNM,government,1,1,4,4,refused,2020,SEP,Argentina,Netwalker
+207,Travelex,finance,10,"1,000",2.3,2.3,ransom paid,2020,JAN,UK,REvil
+208,UC San Francisco,academic,25,"7,000",1.14,1.14,ransom paid,2020,JUN,USA,NetWalker
+209,Shirbit Insurance,finance,5,80,1,1,refused,2020,DEC,Israel,Black Shadow
+210,CPI,energy,10,500,"500,000",0.5,ransom paid,2020,MAR,USA,Not revealed
+211,Temple Har Shalom,misc,1,1,"500,000",0.5,unknown,2020,JAN,USA,REvil
+212,Town of Colonie,government,1,1,"400,000",0.4,refused,2020,JAN,"New York, USA",Not revealed
+213,University of Utah,academic,25,"1,500","450,000",0.457,ransom paid,2020,AUG,USA,Not revealed
+214,City of Lafayette,government,1,1,45000,0.045,ransom paid,2020,AUG,"Colorado, USA",Not revealed
+215,Richmond Community Schools,academic,5,58,10000,0.01,refused,2020,JAN,"Michigan, USA",Not revealed
+220,PEI Government,government,1,1,"900,000",0.9,unknown,2020,MAR,Canada,Maze
+225,City of Torrance,government,1,1,"690,000",0.69,unknown,2020,APR,USA,DoppelPaymer
+240,Enel,energy,100,"62,364",14,14,unknown,2020,JUN,Europe,NetWalker
+244,City of Florence,government,1,1,"291,000",0.291,ransom paid,2020,JUN,USA,DoppelPaymer
+248,Garmin,tech,25,"4,187",10,10,unknown,2020,JUL,USA,EvilCorp
+251,CWT,logistics,25,"3,000",4.5,4.5,ransom paid,2020,AUG,USA,Ragnar Locker
+269,Tyler Technologies,tech,25,"1,117",4,4,ransom paid,2020,SEP,USA,RansomEXX
+271,Ardonagh Group,finance,10,"1,000",94,94,unknown,2020,OCT,UK,Not revealed
+272,Yazoo County School District,academic,5,10,"300,000",0.3,ransom paid,2020,OCT,USA,Not revealed
+274,Haldiram's,retail,10,546,"750,000",0.75,unknown,2020,OCT,India,Not revealed
+276,Vastaamo,healthcare,5,10,200 euros per patient,0.49,unknown,2020,OCT,Finland,Not revealed
+282,Capcom,gaming,100,"81,591",11,11,unknown,2020,NOV,Japan,Ragnar Locker
+283,Campari Group,food & beverage,25,"2,000",15,15,unknown,2020,NOV,Italy,Ragnar Locker
+288,Managed.com,tech,1,5,"500,000",0.5,unknown,2020,NOV,USA,REvil
+291,Delaware County,government,1,1,"500,000",0.5,ransom paid,2020,NOV,USA,DoppelPaymer
+295,Haberdashers’ Monmouth Schools,academic,1,3,1.4,1.4,refused,2020,DEC,UK,Not revealed
+303,UHS,healthcare,25,"11,559",67,67,unknown,2020,OCT,USA,Ryuk
+315,PEMEX,energy,100,"87,000",4.9,4.9,unknown,2019,NOV,Mexico,DoppelPaymer
+316,Maastricht University,academic,10,241,"220,000",0.22,ransom paid,2019,DEC,The Netherlands,TA505
+317,Virtual Care Provider Inc.,healthcare,5,29,14,14,unknown,2019,NOV,USA,Ryuk
+318,Riviera Beach & Lake City,government,1,1,1.1,1.1,ransom paid,2019,JUN,"Florida, USA","TrickBot, Ryuk"
+319,City of Baltimore,government,1,1,"76,280",0.07628,refused,2019,MAY,"Maryland, USA",RobbinHood
+323,Everis & Cadena SAR,tech,10,"1,000","836,000",0.836,unknown,2019,NOV,Spain,Not revealed
+324,Government of Nunavut,government,1,1,5,5,unknown,2019,NOV,Canada,Not revealed
+325,City of Johannesburg,government,1,1,"30,493",0.030493,refused,2019,NOV,USA,Shadow Kill Hackers
+328,DCH Health System,healthcare,10,545,"500,000",0.5,unknown,2019,NOV,"Alabama, USA",Ryuk
+329,22 Texan towns,government,1,1,2.5,2.5,refused,2019,SEP,USA,Not revealed
+330,La Porte County,government,1,1,"130,000",0.13,ransom paid,2019,JUL,"Indiana, USA",Ryuk
+331,City of Lodi,government,1,1,"400,000",0.4,unknown,2019,APR,"California, USA",Not revealed
+332,Jackson County,government,1,1,"400,000",0.4,ransom paid,2019,MAR,"Georgia, USA",Ryuk
+334,Port of San Diego,government,10,163,30,30,unknown,2018,SEP,USA,SamSam
+336,City of Atlanta,government,1,1,"51,000",0.051,refused,2018,MAR,USA,SamSam
+337,Hancock Health,healthcare,10,122,"55,000",0.055,ransom paid,2018,JAN,USA,SamSam
+338,"""WannaCry""",mixed,300,1,$300-$600 per system,69,unknown,2017,MAY,Worldwide,WannaCry
+339,Maersk,transport,100,"39,722",300,300,unknown,2017,JUN,Denmark,NotPetya
+340,"""Petya"" & ""NotPetya""",mixed,100,1,$10bn across multiple companies,5,unknown,2017,JUN,Wordlwide,NotPetya & Petya
+342,Madison County,government,1,1,"21,000",0.021,ransom paid,2016,DEC,USA,Not revealed
+343,San Francisco MTA,transport,10,"1,000","74,000",0.074,unknown,2016,NOV,USA,HDDCryptor
+344,Carleton University,academic,10,665,"39,000",0.039,unknown,2016,NOV,Canada,Not revealed
+345,University of Calgary,academic,10,201,"15,780",0.01578,ransom paid,2016,JUN,Canada,Not revealed
+346,MedStar Health,healthcare,25,"5,000","19,000",0.019,unknown,2016,MAR,USA,Not revealed
+348,HPMC,healthcare,10,289,"17,000",0.017,ransom paid,2016,FEB,USA,Not revealed
+353,Plex,media & sports,5,14,"2,500",0.0025,refused,2015,JUL,USA,CryptoWall
+354,"""TeslaCrypt 2""",mixed,5,1,$1000 per system,5,unknown,2015,MAY,Australia,Not revealed
+356,New Hampshire PD,government,1,1,$2000-$3000,0.003,unknown,2014,JUN,USA,CryptoWall
+357,Apple devices,mixed,1,1,$100 per device,5,unknown,2014,MAY,Australia,Not revealed
